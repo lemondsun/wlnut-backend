@@ -18,4 +18,4 @@ Use the package manager [npm](https://www.npmjs.com/) to install Axios.
 
 ```bash
 npm i --save axios
-npm start
+node index.js
